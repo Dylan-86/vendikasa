@@ -1,0 +1,9 @@
+.navbar li{margin:13px 15px;}
+.navbar li:last-child{margin-right:0;}
+.navbar li a{font-size:16px;padding:0;cursor:pointer!important;border-bottom:1px solid transparent;}
+.navbar li a:hover{opacity:0.8;}
+.header-style4 .white-header .header-bottom li a{color:#ce5200;}
+.header-style4 .header-bottom li:last-child{margin-right:0;}
+.header-style4 .header-bottom li a{color:#fff;line-height:19px;}
+.header-style4 .header-bottom li a:before{content:"\f111";font-size:6px;color:#ffffff;font-family:fontawesome;right:-23px;position:absolute;}
+.header-style4 .header-bottom li:last-child a:before{display:none;}
